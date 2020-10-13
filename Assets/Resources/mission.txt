@@ -1,0 +1,5 @@
+﻿MISSION 1 : 깊은 곳으로 들어가라
+MISSION 2 : 연구소를 찾아라
+MISSION 3 : 연구 일지를 찾아라
+MISSION 4 : 차로 돌아가라
+
